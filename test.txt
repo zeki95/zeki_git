@@ -5,3 +5,4 @@ push github
 create branch
 switched
 merge
+git issue
